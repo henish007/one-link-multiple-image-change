@@ -1,0 +1,48 @@
+Codepen Link: https://codepen.io/suquiya/pen/LygQaW/
+
+1)  From Feature search
+    Image URL: https://source.unsplash.com/featured?technology
+
+    We can get image like below:
+    Ex.: https://source.unsplash.com/featured?{keyword}
+
+2)  From category
+    Image URL: https://source.unsplash.com/category/buildings
+
+    We can get image like below:
+    Ex.: https://source.unsplash.com/category/{category name}
+
+3)  From a specific user
+    Image URL: https://source.unsplash.com/user/jwwhitt
+
+    We can get image like below:
+    Ex.: https://source.unsplash.com/user/{username}
+
+4)  From user's like
+    Image URL: https://source.unsplash.com/user/fuyao/likes
+
+    We can get image like below:
+    Ex.: https://source.unsplash.com/{username}/likes
+
+5)  From collection
+    Image URL: https://source.unsplash.com/collection/762855
+
+    We can get image like below:
+    Ex.: https://source.unsplash.com/collection/{collection id}
+
+6)  From daily
+    Image URL: https://source.unsplash.com/daily
+
+    We can get image like below:
+    Ex.: https://source.unsplash.com/daily
+
+7)  From weekly
+    Image URL: https://source.unsplash.com/category/weekly
+
+    We can get image like below:
+    Ex.: https://source.unsplash.com/category/weekly
+    
+---------------------------------------
+| NOTE: Check my second file example: |
+---------------------------------------
+    
